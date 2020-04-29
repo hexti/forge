@@ -22,7 +22,7 @@ module.exports = {
     credentials: {
         client_id: 'ypKrrGXspKtbFexBlQtqjw8HhrRtLKDz',
         client_secret: '9sG0ppGosfm385A2',
-        callback_url: 'http://localhost:3000/api/forge/callback/oauth'
+        callback_url: 'https://forge-cmat.herokuapp.com/api/forge/callback/oauth'
     },
     scopes: {
         // Required scopes for the server-side application
